@@ -10,3 +10,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.glow{
+    box-shadow: "0px 0px 9px 4px #FFD700";
+}
